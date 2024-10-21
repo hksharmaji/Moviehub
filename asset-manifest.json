@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Moviehub/static/css/main.745b8238.css",
-    "main.js": "/Moviehub/static/js/main.fb8d61e9.js",
+    "main.css": "/Moviehub/static/css/main.02dadde2.css",
+    "main.js": "/Moviehub/static/js/main.5db26e0a.js",
+    "static/media/logo.jpg": "/Moviehub/static/media/logo.d4976c3100a1c353079c.jpg",
     "index.html": "/Moviehub/index.html",
-    "main.745b8238.css.map": "/Moviehub/static/css/main.745b8238.css.map",
-    "main.fb8d61e9.js.map": "/Moviehub/static/js/main.fb8d61e9.js.map"
+    "main.02dadde2.css.map": "/Moviehub/static/css/main.02dadde2.css.map",
+    "main.5db26e0a.js.map": "/Moviehub/static/js/main.5db26e0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.745b8238.css",
-    "static/js/main.fb8d61e9.js"
+    "static/css/main.02dadde2.css",
+    "static/js/main.5db26e0a.js"
   ]
 }
